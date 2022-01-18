@@ -4,7 +4,7 @@ const { MongoClient, ObjectId } = require("mongodb");
 //const url = "mongodb://localhost:27017";
  const url = "mongodb+srv://admin:9e28XsOWTI2lWX1Y@cluster0.0ix0h.mongodb.net/";
 
-const dbName = "ocean_bancodados_18_01_2022";
+const dbName = "ocean_bancodados_18_01_22";
 
 async function main() {
     // Conexão com o Banco de Dados
